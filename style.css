@@ -108,6 +108,10 @@ hr{
     .container{
         border: none;
         width: fit-content;
+        background-color: white;
+    }
+    input{
+        background-color: white;
     }
     .btn-print{
         display: none;
