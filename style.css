@@ -88,6 +88,9 @@ hr{
     border: none; 
     cursor: pointer; 
 }
+.passmunasiguro{
+    font-family: serif;
+}
 @page {
     size: auto;
     margin: 15mm;
